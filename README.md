@@ -1,5 +1,18 @@
-## Hi there 👋
-
+# Hi friends 👋
+### *Introduce me to you*
+- **Personal Info**
+    - name: zxy || windinfreedom
+    - birthplace: Xining,Qinghai,China
+    - hometown: Shandong,China
+    - birthday: 2001.10.28
+    - sex: female
+    - ✨ You can Q me at **1419478076**, or email me at **1419478076@qq.com**.
+    - 🌱 I’m currently learning **408**.
+    - major: **Big Data Engineering Technology**
+    - area of expertise: **Python, AI, Data Crawler, Data Processing and Analysis, Data Modeling, Data Development, HTML, CSS, JavaScript, C/C++**
+        - study projects......
+    - language: CET-4，and CET-6 is coming
+    - 😄 Pronouns: Be Yourself, Free Tulip ![181D61DD](https://github.com/user-attachments/assets/aa5c1cd8-8ff7-4694-8344-35bd0196102d)
 <!--
 **WindInFreedom/windinfreedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
